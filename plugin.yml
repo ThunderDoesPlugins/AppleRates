@@ -1,0 +1,6 @@
+name: AppleRates
+version: 1.0.0
+api: [2.0.0]
+author: Thunder33345
+description:
+main: Thunder33345\AppleRates\Main

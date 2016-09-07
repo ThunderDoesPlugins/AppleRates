@@ -1,0 +1,18 @@
+---
+# Apple Rates Config
+
+# the chance to drop following item from the config (out of 1000)
+chance: "50"
+
+# the config below is the drop table
+# the chance of what will drop is determined by the weight
+drops:
+- id: "260"
+  meta: "0"
+  count: "1"
+  weight: "9"
+- id: "322"
+  meta: "0"
+  count: "1"
+  weight: "1"
+...
